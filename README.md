@@ -2,7 +2,7 @@
 
 **Full-Stack Product Engineer.** I take B2B products from idea to production: product thinking, a polished UI, AI features and a backend built to hold under load.
 
-🖥️ **Portfolio: [ayoublkebch.com](https://www.ayoublkebch.com)**, built as a macOS desktop: every product opens as an app.
+🖥️ **Portfolio: [ayoublkebch.com](https://www.ayoublkebch.com)**, built as a macOS desktop
 
 Nearly 4 years building multi-tenant SaaS for HR, hiring, telecom field service and fleet tracking. Most of that code is private, so here are the products instead:
 
