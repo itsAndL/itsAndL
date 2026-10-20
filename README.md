@@ -18,6 +18,6 @@ Nearly 4 years building multi-tenant SaaS for HR, hiring, telecom field service 
 
 ### Contact
 📍 Casablanca, Morocco · open to remote and relocation<br>
-🌐 [ayoublkebch.com](https://www.ayoublkebch.com) · ✉️ ayoub003lkebch@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/ayoub-lkebch)
+🌐 [ayoublkebch.com](https://www.ayoublkebch.com) · ✉️ ayoub003lkebch@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/ayoub-lkebch) · 𝕏 [@ayoublkebch](https://x.com/ayoublkebch)
 
 <sub>Where I started: [CSharp-Training](https://github.com/itsAndL/CSharp-Training), self-taught C# before moving to Rails in 2023.</sub>
