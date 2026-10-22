@@ -4,7 +4,7 @@
 
 🖥️ **Portfolio: [ayoublkebch.com](https://www.ayoublkebch.com)**, built as a macOS desktop
 
-Nearly 4 years building multi-tenant SaaS for HR, hiring, telecom field service and fleet tracking. Most of that code is private, so here are the products instead:
+I build software for businesses. Nearly 4 years building multi-tenant SaaS for HR, hiring, telecom field service and fleet tracking, now building Opilote. Most of that code is private, so here are the products instead:
 
 | Product | What it is | My part |
 |---|---|---|
@@ -17,7 +17,7 @@ Nearly 4 years building multi-tenant SaaS for HR, hiring, telecom field service 
 **Ruby on Rails · React · React Native · PostgreSQL · Next.js** · TypeScript · Hotwire · Tailwind CSS · Redis · Sidekiq · PostGIS · Docker · Kamal · GitHub Actions · MCP / LLM tool use
 
 ### Contact
-📍 Casablanca, Morocco · open to remote and relocation<br>
+📍 Casablanca, Morocco · taking on projects: websites, web apps, SaaS and mobile apps<br>
 🌐 [ayoublkebch.com](https://www.ayoublkebch.com) · ✉️ ayoub003lkebch@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/ayoublkebch) · 𝕏 [@ayoublkebch](https://x.com/ayoublkebch)
 
 <sub>Where I started: [CSharp-Training](https://github.com/itsAndL/CSharp-Training), self-taught C# before moving to Rails in 2023.</sub>
