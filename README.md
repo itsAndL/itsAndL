@@ -8,7 +8,7 @@ I build software for businesses. Nearly 4 years building multi-tenant SaaS for H
 
 | Product | What it is | My part |
 |---|---|---|
-| [Opilote](https://www.opilote.com) | GPS fleet-management platform: live map, alerts, dashcam video, reports | Sole engineer: Rails API, React web app, React Native mobile app, Next.js site. Real-time pipeline handled 2,000 devices at once; tested with 55,000 vehicles |
+| [Opilote](https://www.opilote.com) | GPS fleet-management platform: live map, alerts, dashcam video, reports | Sole engineer: Rails API, React web app, React Native mobile app ([live on Google Play](https://play.google.com/store/apps/details?id=com.opilote.app)), Next.js site. Real-time pipeline handled 2,000 devices at once; tested with 55,000 vehicles |
 | [Timlead](https://getstarted.timlead.com) | Field-service platform for telecom operators, used by 6,000+ people at Netis | AI assistant + MCP server, Okta SSO rollout, pricing and invoicing, interface redesign |
 | [TestSkills](https://www.testskills.app) | Skills-assessment and hiring platform | Shaped the product and led it from the first commit: proctored tests, hiring pipeline, AI CV scoring |
 | [Humaneo](https://www.humaneo.ma) | HR management SaaS used by 7,000+ employees | Joined at the first commit; leave, expenses and performance-review modules, much of the interface |
